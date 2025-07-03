@@ -3,8 +3,8 @@
 ### 🟢 James B. Duke Assistant Professor of the Practice in Data Science 
 ### 🏛️ Davidson College
 
-* [Visit my personal website](https://pebenbow.github.io/pete.benbow/){target="_blank"}
-* [See my official college bio](https://www.davidson.edu/people/pete-benbow){target="_blank"}
+* [Visit my personal website](https://pebenbow.github.io/pete.benbow/)
+* [See my official college bio](https://www.davidson.edu/people/pete-benbow)
 
 <!--
 **pebenbow/pebenbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
